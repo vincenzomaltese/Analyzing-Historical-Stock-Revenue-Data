@@ -6,20 +6,20 @@
 
 ## Project Description
 
-This project analyzes historical stock and revenue data for Tesla, Amazon, AMD, and GameStop. It uses Python libraries for data extraction and visualization to identify patterns and trends, culminating in an interactive dashboard. 
+This repository contains an analysis of historical stock and revenue data for Tesla, Amazon, AMD, and GameStop. It uses Python libraries for data extraction and visualization to identify patterns and trends, culminating in an interactive dashboard.
 
-This project was completed as part of the **Python Project for Data Science** course from IBM.
+This analysis was conducted as part of the **Python Project for Data Science** course from IBM.
 
 ## Project Goals
 
-This project addresses the following key questions:
+The key questions addressed in this analysis are:
 
 * **Question 1:** Use `yfinance` to extract historical stock data.
 * **Question 2:** Use webscraping to extract Tesla's revenue data.
 * **Question 3:** Use `yfinance` to extract historical stock data for other companies (Amazon, AMD, GameStop).
 * **Question 4:** Use webscraping to extract GameStop's revenue data.
 * **Question 5:**  Plot Tesla's stock data using an interactive graph.
-* **Question 6:** Plot GameStop's stock data using an interactive graph.
+* **Question 6:** Plot GameStop's stock data using an interactive graph. 
 
 ## Technologies Used
 
