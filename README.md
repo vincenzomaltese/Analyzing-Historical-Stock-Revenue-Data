@@ -2,7 +2,6 @@
 
 ![Financial data analysis dashboard](https://github.com/vincenzomaltese/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard/blob/main/images/1r.jpg?raw=true)
 
-> Analyzing financial data and building an interactive dashboard to track stock performance.
 
 ## Project Description
 
