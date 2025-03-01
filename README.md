@@ -3,7 +3,7 @@
 ![Financial data analysis dashboard](https://github.com/vincenzomaltese/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard/blob/main/images/1r.jpg?raw=true)
 
 ## Overview
-This project explores the relationship between stock prices and revenue trends for Tesla and GameStop, visualizing trends and drawing insights into their financial performance and market behavior.
+This project explores the relationship between stock prices and revenue for Tesla and GameStop, visualizing trends and drawing insights into their financial performance and market behavior.
 
 ## Dataset
 Historical stock prices and revenue figures were obtained from Yahoo Finance using web scraping techniques.
