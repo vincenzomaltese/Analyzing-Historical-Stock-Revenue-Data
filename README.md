@@ -3,12 +3,10 @@
 ![Financial data analysis dashboard](https://github.com/vincenzomaltese/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard/blob/main/images/1r.jpg?raw=true)
 
 ## Overview
-This project analyzes historical stock prices and revenue data for Tesla and GameStop, visualizing trends and drawing insights into their financial performance and market behavior.
+This project explores the relationship between stock prices and revenue trends for Tesla and GameStop, visualizing trends and drawing insights into their financial performance and market behavior.
 
 ## Dataset
-The data used in this project includes:
-- Historical stock price data sourced from Yahoo Finance.
-- Historical revenue data extracted from company financial reports.
+Historical stock prices and revenue figures were obtained from Yahoo Finance using web scraping techniques.
 
 ## Technologies Used
 - BeautifulSoup
