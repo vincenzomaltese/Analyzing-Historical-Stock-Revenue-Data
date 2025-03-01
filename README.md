@@ -2,31 +2,49 @@
 
 ![Financial data analysis dashboard](https://github.com/vincenzomaltese/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard/blob/main/images/1r.jpg?raw=true)
 
+## Overview
+This project analyzes historical stock prices and revenue data for Tesla and GameStop, visualizing trends and drawing insights into their financial performance and market behavior.
 
-## Project Description
-
-This repository contains an analysis of historical stock and revenue data for Tesla, Amazon, AMD, and GameStop. It uses Python libraries for data extraction and visualization to identify patterns and trends, culminating in an interactive dashboard.
-
-This analysis was conducted as part of the **Python Project for Data Science** course from IBM.
-
-## Project Goals
-
-The key questions addressed in this analysis are:
-
-* **Question 1:** Use `yfinance` to extract historical stock data.
-* **Question 2:** Use webscraping to extract Tesla's revenue data.
-* **Question 3:** Use `yfinance` to extract historical stock data for other companies (Amazon, AMD, GameStop).
-* **Question 4:** Use webscraping to extract GameStop's revenue data.
-* **Question 5:**  Plot Tesla's stock data using an interactive graph.
-* **Question 6:** Plot GameStop's stock data using an interactive graph. 
+## Dataset
+The data used in this project includes:
+- Historical stock price data sourced from Yahoo Finance.
+- Historical revenue data extracted from company financial reports.
 
 ## Technologies Used
+- BeautifulSoup
+- Pandas
+- Matplotlib
+- Plotly
 
-* **Python:** The core programming language for data analysis.
-* **Pandas:**  Used for data manipulation and analysis.
-* **Beautiful Soup:** Used for web scraping to extract revenue data.
-* **Yfinance:** Used to extract historical stock price data.
-* **Plotly:** Used to create interactive visualizations and the dashboard.
+## Analysis & Findings
+### Tesla
+- Tesla's revenue grew exponentially from 2010 to 2021.
+- The stock price followed a similar upward trend, suggesting a strong correlation between revenue growth and stock valuation.
+- While revenue is not the sole factor affecting stock prices, Tesla’s price movement aligns logically with its financial performance.
+
+### GameStop
+- GameStop’s revenue peaked in 2011, followed by a steady decline and a sharp drop in 2020.
+- Despite this decline, GameStop's stock price experienced extreme volatility in 2021, skyrocketing due to speculative trading.
+- This suggests that the stock price became disconnected from the company's actual financial health, highlighting the speculative nature of the asset.
+
+## Visualizations
+### Tesla
+![Tesla Stock and Revenue](https://github.com/vincenzomaltese/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard/blob/main/images/Tesla_graph.jpg?raw=true)
+
+### GameStop
+![GameStop Stock and Revenue](https://github.com/vincenzomaltese/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard/blob/main/images/GameStop_graph.jpg?raw=true)
+
+## Conclusion
+This analysis demonstrates how stock prices can be influenced by company fundamentals as well as external market dynamics. Tesla’s stock movement aligns with its revenue growth, while GameStop’s surge reflects market speculation rather than financial performance.
+
+## How to Run the Notebook
+1. Clone this repository.
+2. Install required dependencies using `pip install -r requirements.txt` (if applicable).
+3. Open `Final Assignment-v2.ipynb` in Jupyter Notebook.
+4. Run the notebook to generate visualizations and insights.
+
+## License
+This project is open-source and available under the MIT License.
 
 
 ## Installation
