@@ -32,7 +32,7 @@ The data used in this project includes:
 ![Tesla Stock and Revenue](https://github.com/vincenzomaltese/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard/blob/main/images/Tesla_graph.jpg?raw=true)
 
 ### GameStop
-![GameStop Stock and Revenue](https://github.com/vincenzomaltese/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard/blob/main/images/GameStop_graph.jpg?raw=true)
+![GameStop Stock and Revenue](https://github.com/vincenzomaltese/Analyzing-Historical-Stock-Revenue-Data/blob/main/images/GameStop_graph.png)
 
 ## Conclusion
 This analysis demonstrates how stock prices can be influenced by company fundamentals as well as external market dynamics. Tesla’s stock movement aligns with its revenue growth, while GameStop’s surge reflects market speculation rather than financial performance.
