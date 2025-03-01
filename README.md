@@ -29,7 +29,7 @@ The data used in this project includes:
 
 ## Visualizations
 ### Tesla
-![Tesla Stock and Revenue](https://github.com/vincenzomaltese/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard/blob/main/images/Tesla_graph.jpg?raw=true)
+![Tesla Stock and Revenue](https://github.com/vincenzomaltese/Analyzing-Historical-Stock-Revenue-Data/blob/main/images/Tesla_graph.png)
 
 ### GameStop
 ![GameStop Stock and Revenue](https://github.com/vincenzomaltese/Analyzing-Historical-Stock-Revenue-Data/blob/main/images/GameStop_graph.png)
