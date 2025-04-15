@@ -1,5 +1,7 @@
 # Analyzing Historical Stock and Revenue Data
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
 ## Overview
 This project explores the relationship between stock prices and revenue for Tesla and GameStop, visualizing trends and drawing insights into their financial performance and market behavior.
 
